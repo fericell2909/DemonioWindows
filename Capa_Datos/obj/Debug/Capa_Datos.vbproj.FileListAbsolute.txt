@@ -1,0 +1,173 @@
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\bin\Debug\Capa_Datos.xml
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\obj\Debug\ResolveAssemblyReference.cache
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\obj\Debug\GenerateResource.read.1.tlog
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\obj\Debug\GenerateResource.write.1.tlog
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\obj\Debug\Capa_Datos.xml
+E:\MODULO RECUPJUD\Capa_Presentacion\Capa_Datos\obj\Debug\Capa_Datos.pdb
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\Capa_Datos.xml
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\ComConecta.dll
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\ComConecta.pdb
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\ComConecta.xml
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\obj\Debug\ResolveAssemblyReference.cache
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\obj\Debug\GenerateResource.read.1.tlog
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\obj\Debug\GenerateResource.write.1.tlog
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\obj\Debug\Capa_Datos.xml
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\obj\Debug\Capa_Datos.pdb
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\ComTipos.dll
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\ComTipos.pdb
+E:\MODULO RECUPJUD\Solucion\Capa_Datos\bin\Debug\ComTipos.xml
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\Capa_Datos.xml
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\ComConecta.dll
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\ComTipos.dll
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\ComConecta.pdb
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\ComConecta.xml
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\ComTipos.pdb
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\bin\Debug\ComTipos.xml
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\obj\Debug\Capa_Datos.xml
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\Capa_Datos.xml
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\ComConecta.dll
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\ComTipos.dll
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\ComConecta.pdb
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\ComConecta.xml
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\ComTipos.pdb
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\bin\Debug\ComTipos.xml
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\obj\Debug\Capa_Datos.xml
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Prueba\ComCavajal\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+D:\Prueba\ComCavajal\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\Prueba\ComCavajal\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+D:\Prueba\ComCavajal\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Prueba\ComCavajal\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\Prueba\ComCavajal\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\ComConecta.dll
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\ComTipos.dll
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\ComConecta.pdb
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\ComConecta.xml
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\ComTipos.pdb
+D:\Prueba\ComCavajal\Capa_Datos\bin\Debug\ComTipos.xml
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\Capa_Datos.xml
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\ComConecta.dll
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\ComTipos.dll
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\ComConecta.pdb
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\ComConecta.xml
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\ComTipos.pdb
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\bin\Debug\ComTipos.xml
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\obj\Debug\Capa_Datos.xml
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\ComConecta.dll
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\ComTipos.dll
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\ComConecta.pdb
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\ComConecta.xml
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\ComTipos.pdb
+D:\Proyecto\SolucionDll\Capa_Datos\bin\Debug\ComTipos.xml
+D:\Proyecto\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+D:\Proyecto\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\Proyecto\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+D:\Proyecto\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Proyecto\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\Proyecto\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComConecta.dll
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComTipos.dll
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComConecta.pdb
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComConecta.xml
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComTipos.pdb
+D:\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComTipos.xml
+D:\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.vbprojResolveAssemblyReference.cache
+D:\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+D:\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComTipos.dll
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComTipos.pdb
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\ComTipos.xml
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\GenerateResource.read.1.tlog
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\obj\Debug\GenerateResource.write.1.tlog
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+D:\DemonioGNV\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+D:\DemonioGNV\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\DemonioGNV\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\DemonioGNV\SolucionDll\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\DemonioGNV\SolucionDll\Capa_Datos\bin\Debug\ComTipos.dll
+D:\DemonioGNV\SolucionDll\Capa_Datos\bin\Debug\ComTipos.pdb
+D:\DemonioGNV\SolucionDll\Capa_Datos\bin\Debug\ComTipos.xml
+D:\DemonioGNV\SolucionDll\Capa_Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\DemonioGNV\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\DemonioGNV\SolucionDll\Capa_Datos\obj\Debug\GenerateResource.read.1.tlog
+D:\DemonioGNV\SolucionDll\Capa_Datos\obj\Debug\GenerateResource.write.1.tlog
+D:\DemonioGNV\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\DemonioGNV\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\DemonioGNV\SolucionDll\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\bin\Debug\ComTipos.dll
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\bin\Debug\ComTipos.pdb
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\bin\Debug\ComTipos.xml
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\obj\Debug\GenerateResource.read.1.tlog
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\obj\Debug\GenerateResource.write.1.tlog
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\DemonioGNV\SERVICIOPECSA\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\DemonioGNV\Servicio\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+D:\DemonioGNV\Servicio\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\DemonioGNV\Servicio\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\DemonioGNV\Servicio\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\DemonioGNV\Servicio\Capa_Datos\bin\Debug\ComTipos.dll
+D:\DemonioGNV\Servicio\Capa_Datos\bin\Debug\ComTipos.pdb
+D:\DemonioGNV\Servicio\Capa_Datos\bin\Debug\ComTipos.xml
+D:\DemonioGNV\Servicio\Capa_Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\DemonioGNV\Servicio\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\DemonioGNV\Servicio\Capa_Datos\obj\Debug\GenerateResource.read.1.tlog
+D:\DemonioGNV\Servicio\Capa_Datos\obj\Debug\GenerateResource.write.1.tlog
+D:\DemonioGNV\Servicio\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\DemonioGNV\Servicio\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\DemonioGNV\Servicio\Capa_Datos\obj\Debug\Capa_Datos.pdb

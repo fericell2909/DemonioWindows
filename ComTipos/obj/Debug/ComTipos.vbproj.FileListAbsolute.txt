@@ -1,0 +1,100 @@
+E:\MODULO RECUPJUD\Solucion\ComTipos\bin\Debug\ComTipos.dll
+E:\MODULO RECUPJUD\Solucion\ComTipos\bin\Debug\ComTipos.pdb
+E:\MODULO RECUPJUD\Solucion\ComTipos\bin\Debug\ComTipos.xml
+E:\MODULO RECUPJUD\Solucion\ComTipos\obj\Debug\ResolveAssemblyReference.cache
+E:\MODULO RECUPJUD\Solucion\ComTipos\obj\Debug\ComTipos.Resources.resources
+E:\MODULO RECUPJUD\Solucion\ComTipos\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\MODULO RECUPJUD\Solucion\ComTipos\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\MODULO RECUPJUD\Solucion\ComTipos\obj\Debug\ComTipos.dll
+E:\MODULO RECUPJUD\Solucion\ComTipos\obj\Debug\ComTipos.xml
+E:\MODULO RECUPJUD\Solucion\ComTipos\obj\Debug\ComTipos.pdb
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\bin\Debug\ComTipos.dll
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\bin\Debug\ComTipos.pdb
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\bin\Debug\ComTipos.xml
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\obj\Debug\ComTipos.Resources.resources
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\obj\Debug\ComTipos.dll
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\obj\Debug\ComTipos.xml
+C:\Users\Franco Estrada Lopez\Desktop\Solucion\ComTipos\obj\Debug\ComTipos.pdb
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\ComTipos\bin\Debug\ComTipos.dll
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\ComTipos\bin\Debug\ComTipos.pdb
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\ComTipos\bin\Debug\ComTipos.xml
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\ComTipos\obj\Debug\ComTipos.Resources.resources
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\ComTipos\obj\Debug\ComTipos.vbproj.GenerateResource.Cache
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\ComTipos\obj\Debug\ComTipos.dll
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\ComTipos\obj\Debug\ComTipos.xml
+C:\Users\mestrada\Desktop\SECCION 6\Solucion\ComTipos\obj\Debug\ComTipos.pdb
+D:\Prueba\ComCavajal\ComTipos\bin\Debug\ComTipos.dll
+D:\Prueba\ComCavajal\ComTipos\bin\Debug\ComTipos.pdb
+D:\Prueba\ComCavajal\ComTipos\bin\Debug\ComTipos.xml
+D:\Prueba\ComCavajal\ComTipos\obj\Debug\ComTipos.Resources.resources
+D:\Prueba\ComCavajal\ComTipos\obj\Debug\ComTipos.vbproj.GenerateResource.Cache
+D:\Prueba\ComCavajal\ComTipos\obj\Debug\ComTipos.dll
+D:\Prueba\ComCavajal\ComTipos\obj\Debug\ComTipos.xml
+D:\Prueba\ComCavajal\ComTipos\obj\Debug\ComTipos.pdb
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\ComTipos\bin\Debug\ComTipos.dll
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\ComTipos\bin\Debug\ComTipos.pdb
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\ComTipos\bin\Debug\ComTipos.xml
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\ComTipos\obj\Debug\ComTipos.Resources.resources
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\ComTipos\obj\Debug\ComTipos.vbproj.GenerateResource.Cache
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\ComTipos\obj\Debug\ComTipos.dll
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\ComTipos\obj\Debug\ComTipos.xml
+C:\Users\obenites\Documents\Visual Studio 2010\Projects\Prueba2\ComTipos\obj\Debug\ComTipos.pdb
+D:\Proyecto\SolucionDll\ComTipos\bin\Debug\ComTipos.dll
+D:\Proyecto\SolucionDll\ComTipos\bin\Debug\ComTipos.pdb
+D:\Proyecto\SolucionDll\ComTipos\bin\Debug\ComTipos.xml
+D:\Proyecto\SolucionDll\ComTipos\obj\Debug\ComTipos.Resources.resources
+D:\Proyecto\SolucionDll\ComTipos\obj\Debug\ComTipos.vbproj.GenerateResource.Cache
+D:\Proyecto\SolucionDll\ComTipos\obj\Debug\ComTipos.dll
+D:\Proyecto\SolucionDll\ComTipos\obj\Debug\ComTipos.xml
+D:\Proyecto\SolucionDll\ComTipos\obj\Debug\ComTipos.pdb
+D:\Proyecto - copia\SolucionDll\ComTipos\bin\Debug\ComTipos.dll
+D:\Proyecto - copia\SolucionDll\ComTipos\bin\Debug\ComTipos.pdb
+D:\Proyecto - copia\SolucionDll\ComTipos\bin\Debug\ComTipos.xml
+D:\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.Resources.resources
+D:\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.vbproj.GenerateResource.Cache
+D:\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.dll
+D:\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.xml
+D:\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.pdb
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\bin\Debug\ComTipos.dll
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\bin\Debug\ComTipos.pdb
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\bin\Debug\ComTipos.xml
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ResolveAssemblyReference.cache
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.Resources.resources
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.dll
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.xml
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\ComTipos.pdb
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\GenerateResource.read.1.tlog
+D:\SCRIPTS\Daemons\Proyecto - copia\SolucionDll\ComTipos\obj\Debug\GenerateResource.write.1.tlog
+D:\DemonioGNV\SolucionDll\ComTipos\bin\Debug\ComTipos.dll
+D:\DemonioGNV\SolucionDll\ComTipos\bin\Debug\ComTipos.pdb
+D:\DemonioGNV\SolucionDll\ComTipos\bin\Debug\ComTipos.xml
+D:\DemonioGNV\SolucionDll\ComTipos\obj\Debug\ResolveAssemblyReference.cache
+D:\DemonioGNV\SolucionDll\ComTipos\obj\Debug\ComTipos.Resources.resources
+D:\DemonioGNV\SolucionDll\ComTipos\obj\Debug\GenerateResource.read.1.tlog
+D:\DemonioGNV\SolucionDll\ComTipos\obj\Debug\GenerateResource.write.1.tlog
+D:\DemonioGNV\SolucionDll\ComTipos\obj\Debug\ComTipos.dll
+D:\DemonioGNV\SolucionDll\ComTipos\obj\Debug\ComTipos.xml
+D:\DemonioGNV\SolucionDll\ComTipos\obj\Debug\ComTipos.pdb
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\bin\Debug\ComTipos.dll
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\bin\Debug\ComTipos.pdb
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\bin\Debug\ComTipos.xml
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\obj\Debug\ResolveAssemblyReference.cache
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\obj\Debug\ComTipos.Resources.resources
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\obj\Debug\GenerateResource.read.1.tlog
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\obj\Debug\GenerateResource.write.1.tlog
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\obj\Debug\ComTipos.dll
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\obj\Debug\ComTipos.xml
+D:\DemonioGNV\SERVICIOPECSA\ComTipos\obj\Debug\ComTipos.pdb
+D:\DemonioGNV\Servicio\ComTipos\bin\Debug\ComTipos.dll
+D:\DemonioGNV\Servicio\ComTipos\bin\Debug\ComTipos.pdb
+D:\DemonioGNV\Servicio\ComTipos\bin\Debug\ComTipos.xml
+D:\DemonioGNV\Servicio\ComTipos\obj\Debug\ResolveAssemblyReference.cache
+D:\DemonioGNV\Servicio\ComTipos\obj\Debug\ComTipos.Resources.resources
+D:\DemonioGNV\Servicio\ComTipos\obj\Debug\GenerateResource.read.1.tlog
+D:\DemonioGNV\Servicio\ComTipos\obj\Debug\GenerateResource.write.1.tlog
+D:\DemonioGNV\Servicio\ComTipos\obj\Debug\ComTipos.dll
+D:\DemonioGNV\Servicio\ComTipos\obj\Debug\ComTipos.xml
+D:\DemonioGNV\Servicio\ComTipos\obj\Debug\ComTipos.pdb

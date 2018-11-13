@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicioDatosTaxi" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/AMSystem.GestionTaxi.Servicio" />
+      <xsd:import schemaLocation="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/AMSystem.GestionTaxi.Servicio.Entidades" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicioTaxi_obtenerArticulos_InputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerArticulos" />
+  </wsdl:message>
+  <wsdl:message name="IServicioTaxi_obtenerArticulos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:obtenerArticulosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioTaxi_obtenerArticulos_InfoErrorFault_FaultMessage">
+    <wsdl:part xmlns:q1="http://schemas.datacontract.org/2004/07/AMSystem.GestionTaxi.Servicio" name="detail" element="q1:InfoError" />
+  </wsdl:message>
+  <wsdl:message name="IServicioTaxi_enviarVentas_InputMessage">
+    <wsdl:part name="parameters" element="tns:enviarVentas" />
+  </wsdl:message>
+  <wsdl:message name="IServicioTaxi_enviarVentas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:enviarVentasResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioTaxi_enviarVentas_InfoErrorFault_FaultMessage">
+    <wsdl:part xmlns:q2="http://schemas.datacontract.org/2004/07/AMSystem.GestionTaxi.Servicio" name="detail" element="q2:InfoError" />
+  </wsdl:message>
+  <wsdl:message name="IServicioTaxi_enviarVenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:enviarVenta" />
+  </wsdl:message>
+  <wsdl:message name="IServicioTaxi_enviarVenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:enviarVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioTaxi_enviarVenta_InfoErrorFault_FaultMessage">
+    <wsdl:part xmlns:q3="http://schemas.datacontract.org/2004/07/AMSystem.GestionTaxi.Servicio" name="detail" element="q3:InfoError" />
+  </wsdl:message>
+  <wsdl:portType name="IServicioTaxi">
+    <wsdl:operation name="obtenerArticulos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioTaxi/obtenerArticulos" message="tns:IServicioTaxi_obtenerArticulos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioTaxi/obtenerArticulosResponse" message="tns:IServicioTaxi_obtenerArticulos_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IServicioTaxi/obtenerArticulosInfoErrorFault" name="InfoErrorFault" message="tns:IServicioTaxi_obtenerArticulos_InfoErrorFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="enviarVentas">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioTaxi/enviarVentas" message="tns:IServicioTaxi_enviarVentas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioTaxi/enviarVentasResponse" message="tns:IServicioTaxi_enviarVentas_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IServicioTaxi/enviarVentasInfoErrorFault" name="InfoErrorFault" message="tns:IServicioTaxi_enviarVentas_InfoErrorFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="enviarVenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioTaxi/enviarVenta" message="tns:IServicioTaxi_enviarVenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioTaxi/enviarVentaResponse" message="tns:IServicioTaxi_enviarVenta_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IServicioTaxi/enviarVentaInfoErrorFault" name="InfoErrorFault" message="tns:IServicioTaxi_enviarVenta_InfoErrorFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicioTaxi" type="tns:IServicioTaxi">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="obtenerArticulos">
+      <soap:operation soapAction="http://tempuri.org/IServicioTaxi/obtenerArticulos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="InfoErrorFault">
+        <soap:fault use="literal" name="InfoErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="enviarVentas">
+      <soap:operation soapAction="http://tempuri.org/IServicioTaxi/enviarVentas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="InfoErrorFault">
+        <soap:fault use="literal" name="InfoErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="enviarVenta">
+      <soap:operation soapAction="http://tempuri.org/IServicioTaxi/enviarVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="InfoErrorFault">
+        <soap:fault use="literal" name="InfoErrorFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicioDatosTaxi">
+    <wsdl:port name="BasicHttpBinding_IServicioTaxi" binding="tns:BasicHttpBinding_IServicioTaxi">
+      <soap:address location="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

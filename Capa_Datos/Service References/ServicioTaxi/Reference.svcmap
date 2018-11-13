@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="83ea9c75-9270-4014-a0b9-32dd3278ed0c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://gestion.sntp.pe/serviciotaxi/serviciotaxi.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicioTaxi.xsd" MetadataType="Schema" ID="ba0f688a-c959-42d6-b476-0c0b8d25a388" SourceId="1" SourceUrl="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServicioTaxi1.xsd" MetadataType="Schema" ID="1d584c7a-4a28-4c1a-bccd-2f7fb2034875" SourceId="1" SourceUrl="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicioTaxi2.xsd" MetadataType="Schema" ID="2f48395d-3ffc-4b3f-9a06-9c3b5174c8a7" SourceId="1" SourceUrl="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicioTaxi3.xsd" MetadataType="Schema" ID="e8a12106-31d3-4f9c-a99e-7696131c21d8" SourceId="1" SourceUrl="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicioDatosTaxi.wsdl" MetadataType="Wsdl" ID="19d0f243-7222-4c4d-9642-7acd016066ca" SourceId="1" SourceUrl="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?wsdl" />
+    <MetadataFile FileName="ServicioTaxi.disco" MetadataType="Disco" ID="47f965ab-e316-4992-bab4-23b74d67c426" SourceId="1" SourceUrl="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

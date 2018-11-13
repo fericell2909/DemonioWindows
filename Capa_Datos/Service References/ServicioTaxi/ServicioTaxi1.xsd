@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://gestion.sntp.pe/ServicioTaxi/ServicioTaxi.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/AMSystem.GestionTaxi.Servicio.Entidades" />
+  <xs:element name="obtenerArticulos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="refrenciaPuntoCompra" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="clave" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="obtenerArticulosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/AMSystem.GestionTaxi.Servicio.Entidades" minOccurs="0" name="obtenerArticulosResult" nillable="true" type="q1:ArrayOfArticulos" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="enviarVentas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="refrenciaPuntoCompra" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="clave" nillable="true" type="xs:string" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/AMSystem.GestionTaxi.Servicio.Entidades" minOccurs="0" name="ventas" nillable="true" type="q2:ArrayOfVentas" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="enviarVentasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="enviarVentasResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="enviarVenta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PuntoCompra" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="clave" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Factura" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Placa" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Taxista" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Fecha" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Hora" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Articulo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Monto" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="enviarVentaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="enviarVentaResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
